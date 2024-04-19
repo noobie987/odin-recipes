@@ -1,0 +1,14 @@
+
+h1.main{
+    color:rgb(5, 5, 5);
+    font-family:"Arial",sans-serif;
+    font-size: 15px;
+}
+.img-logo{
+    display: inline;
+    float: left;
+}
+body{
+    background-color: #F28705
+}
+    
